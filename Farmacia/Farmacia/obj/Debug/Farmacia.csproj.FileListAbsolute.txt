@@ -1,0 +1,7 @@
+C:\Users\ALUMNO\Documents\GitHub\Progra3\Farmacia\Farmacia\bin\Debug\Farmacia.exe
+C:\Users\ALUMNO\Documents\GitHub\Progra3\Farmacia\Farmacia\bin\Debug\Farmacia.pdb
+C:\Users\ALUMNO\Documents\GitHub\Progra3\Farmacia\Farmacia\obj\Debug\Farmacia.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Documents\GitHub\Progra3\Farmacia\Farmacia\obj\Debug\Farmacia.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALUMNO\Documents\GitHub\Progra3\Farmacia\Farmacia\obj\Debug\Farmacia.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Documents\GitHub\Progra3\Farmacia\Farmacia\obj\Debug\Farmacia.exe
+C:\Users\ALUMNO\Documents\GitHub\Progra3\Farmacia\Farmacia\obj\Debug\Farmacia.pdb
